@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Sow-Dev",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "778cbfe3-88e7-4436-877b-676e4981821b",
+		"tenantId": "941c52ff-c1a0-4595-aa43-a5be5064cd03"
+	}
+}
