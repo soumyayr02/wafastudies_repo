@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADF-Sow-Dev"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
